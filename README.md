@@ -13,3 +13,7 @@ features to have
 - Note, can give op to people outside of certain worlds, but it should de-op them/limit op powers when transferring out of the worlds
 - Log checker web interface / server stats
 
+when enabling firewall now
+add ingress rules
+enable UFW 25565
+sudo iptables -I INPUT -p tcp --dport 25565 -j ACCEPT
