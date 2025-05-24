@@ -10,7 +10,7 @@ features to have
 - Import plugins on demand
 - Delete plugin on demand
 - Web interface for public stats, etc.
-- Note, can give op to people outside of certain worlds, but it should de-op them/limit op powers when transferring out of the worlds
+- Who is online
 - Log checker web interface / server stats
 
 when enabling firewall now
